@@ -8,6 +8,9 @@ h1 {
   font-family: "chalkduster", fantasy;
   font-size: 50px
 }
+ol{
+    text-align: center;
+}
 
 p {
   color: white;
