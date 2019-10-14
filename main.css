@@ -1,7 +1,7 @@
 body {
    background-color: purple;
 }
-
+/*This is what makes my background purple*/
 h1 {
   color: black;
   text-align: center;
@@ -39,7 +39,7 @@ li a {
   padding: 14px 16px;
   text-decoration: none;
 }
-
+/*This is what makes my pictures the right size and puts it in the right place*/
 img {
   display: block;
   margin-left: auto;
